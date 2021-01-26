@@ -6,4 +6,6 @@ This free course from [Kevin](https://www.kevinpowell.co/) was very useful to go
 
 Of course there is still a lot to learn, but I'm more confident to keep going after solidying my fundamentals.
 
+I even took the liberty to make some fun on mobile menu button.
+
 The course can be found [here](https://courses.kevinpowell.co/courses/conquering-responsive-layouts/). The live version of my solution to the challenge can be found [here](https://conquering-responsive-layouts-final-challenge.vercel.app).
